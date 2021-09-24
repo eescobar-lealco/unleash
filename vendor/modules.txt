@@ -1,0 +1,19 @@
+# github.com/Unleash/unleash-client-go/v3 v3.2.3
+## explicit; go 1.13
+github.com/Unleash/unleash-client-go/v3
+github.com/Unleash/unleash-client-go/v3/api
+github.com/Unleash/unleash-client-go/v3/context
+github.com/Unleash/unleash-client-go/v3/internal/api
+github.com/Unleash/unleash-client-go/v3/internal/constraints
+github.com/Unleash/unleash-client-go/v3/internal/strategies
+github.com/Unleash/unleash-client-go/v3/strategy
+# github.com/go-chi/chi/v5 v5.0.4
+## explicit; go 1.14
+github.com/go-chi/chi/v5
+github.com/go-chi/chi/v5/middleware
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/twmb/murmur3 v1.1.5
+## explicit; go 1.11
+github.com/twmb/murmur3
